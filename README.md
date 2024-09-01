@@ -46,3 +46,5 @@ The apache user (apache or www-data) will need write access to the htpasswd file
 Visit [this Apache page](https://httpd.apache.org/docs/current/programs/htpasswd.html#security) for more info on security considerations.
 
 
+#### Created by
+Jacob "Isreal" - [https://www.jinet.us/dev/dev-projects/php-htpasswd/]
