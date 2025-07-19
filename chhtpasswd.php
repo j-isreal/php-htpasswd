@@ -5,7 +5,7 @@
 * Written by: Jacob Isreal, Isreal Consulting LLC (www.icllc.cc)
 *             jisreal@icllc.cc
 *
-* Last updated: 09-01-2024
+* Last updated: 03-01-2025
 ********************************************************************/
 
 function editHtpasswordRow(string $user, string $pass): string
