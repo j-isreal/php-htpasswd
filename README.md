@@ -1,4 +1,7 @@
 # README
+
+# php-htpasswd
+
 This small php app allows managing the htpasswd file via web.
 
 This project assumes you are using a web server such as Apache or Nginx that can use htpasswd files, and that you have the htpasswd program installed.
